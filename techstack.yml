@@ -1,7 +1,8 @@
 repo_name: prettyleka/forExams
 report_id: 16ab26f1fe8c64ceac65f3ac9cb14426
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T05:31:36+00:00'
+timestamp: '2024-01-05T08:51:53+00:00'
 requested_by: prettyleka
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/mochawesome-report/assets/app.js
   detection_source: mochawesome-report/assets/app.js
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -28,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/prettyleka/forExams
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -39,7 +42,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -53,7 +56,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -65,6 +68,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/prettyleka/forExams
   detection_source: Repo Metadata
 - name: Mocha
   description: Simple, flexible, fun javascript test framework for node.js &amp; the
@@ -77,7 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -89,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -101,7 +106,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -116,7 +121,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -130,7 +135,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -144,7 +149,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -158,7 +163,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18347/default_c95ee102b7b5fa4c25295d4f54cfcb2f3bdf55bc.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -172,7 +177,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16959/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -186,7 +191,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -200,7 +205,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -214,7 +219,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17032/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -228,7 +233,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17263/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -242,7 +247,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -256,7 +261,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16334/default_c64b9481f9c6af91ec9ae0d9b64505998ac31ee7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -277,7 +282,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17537/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -298,7 +303,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17527/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -312,7 +317,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -353,7 +358,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17128/default_5b9eca95ab3651165eb280ed5e0bc9a9382ad24d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -367,7 +372,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -394,7 +399,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -409,7 +414,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17701/default_e87994647b10b361432e73d1831e5982307760e2.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -423,7 +428,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -444,7 +449,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16708/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -458,7 +463,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -472,7 +477,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16865/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
@@ -486,7 +491,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/forExams/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Valeria Basov
   last_updated_on: 2021-12-07 15:38:13.000000000 Z
